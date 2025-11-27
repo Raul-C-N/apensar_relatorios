@@ -17,7 +17,7 @@ from funcoes import *
 
 def main():
     print("Executando pacote como script...")
-    devolver_texto_com_contagem(Quebrar_texto_em_lista(Importar_docx_apenas_nome("7.docx"),"**¨¨"))
+    devolver_texto_com_contagem(Quebrar_texto_em_lista(Importar_docx_apenas_nome("7.docx"),"_____________________________________________________"))
     # print("Resultado da soma:", Importar_txt(caminho_pasta))
 
 if __name__ == "__main__":

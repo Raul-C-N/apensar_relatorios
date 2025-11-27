@@ -93,7 +93,7 @@ def devolver_texto_com_contagem_movel(lista:str,contador_inicial:int=1):
         print(i)
 
 ###AREA DE TESTES DAS FUNÇÕES###
-texto_7 = Importar_docx_apenas_nome("7.docx")
-lista_texto7 = Quebrar_texto_em_lista(texto_7,"**¨¨")
-devolver_texto_com_contagem(lista_texto7)
-devolver_texto_com_contagem_movel(lista_texto7,33)
+# texto_7 = Importar_docx_apenas_nome("7.docx")
+# lista_texto7 = Quebrar_texto_em_lista(texto_7,"**¨¨")
+# devolver_texto_com_contagem(lista_texto7)
+# devolver_texto_com_contagem_movel(lista_texto7,33)
